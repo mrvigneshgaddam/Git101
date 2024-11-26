@@ -1,1 +1,1 @@
-print(f"a+b")
+print(f"a+b";
