@@ -92,5 +92,5 @@ for i in range(10):
 
 - [x] first
 - [X] Second
-= [] Third
+- [] Third
 Made with 😎😎
