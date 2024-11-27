@@ -90,4 +90,7 @@ for i in range(10):
 
 > This is a work insped from xyz
 
+- [x] first
+- [X] Second
+= [] Third
 Made with 😎😎
